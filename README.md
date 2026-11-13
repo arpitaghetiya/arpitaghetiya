@@ -129,6 +129,7 @@ A hackathon project focused on identifying suspicious financial transaction patt
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -143,9 +144,10 @@ A hackathon project focused on identifying suspicious financial transaction patt
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=arpitaghetiya&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=arpitaghetiya&theme=dark&hide_border=true&timezone=Asia%2FKolkata"/>
 
 </div>
+
 
 ---
 
