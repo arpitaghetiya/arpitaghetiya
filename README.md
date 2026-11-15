@@ -134,17 +134,7 @@ A hackathon project focused on identifying suspicious financial transaction patt
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=arpitaghetiya&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arpitaghetiya&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arpitaghetiya&theme=dark&hide_border=true&timezone=Asia%2FKolkata"/>
+<img src="https://streak-stats.demolab.com/?user=arpitaghetiya&theme=dark&hide_border=true&timezone=Asia%2FKolkata&mode=daily"/>
 
 </div>
 
