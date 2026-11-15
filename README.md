@@ -141,12 +141,13 @@ A hackathon project focused on identifying suspicious financial transaction patt
 
 ---
 
-## 📅 GitHub Contribution Graph
+
+## 📅 GitHub Contribution Calendar
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitaghetiya&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
+  <img src="https://ghchart.rshah.org/arpitaghetiya" 
+       alt="Arpita's GitHub Contribution Calendar" 
+       width="100%"/>
 </div>
 
 
