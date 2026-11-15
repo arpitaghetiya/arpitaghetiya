@@ -134,23 +134,21 @@ A hackathon project focused on identifying suspicious financial transaction patt
 
 <div align="center">
 
+<img src="https://github-readme-stats.shion.dev/api?username=arpitaghetiya&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arpitaghetiya&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165"/>
+
+</div>
+
+<br>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=arpitaghetiya&theme=dark&hide_border=true&timezone=Asia%2FKolkata&mode=daily"/>
 
 </div>
-
-
----
-
-
-
-## 📅 GitHub Contributions
-
-<div align="center">
-  <img src="https://github.pumbas.net/api/contributions/arpitaghetiya?colour=39D353&bgColour=0D1117&dotColour=161B22"
-       width="100%"
-       alt="GitHub Contribution Calendar"/>
-</div>
-
 
 
 ---
